@@ -1,5 +1,5 @@
 # python-internship
-ist1=["blue","black","pink"]
+list1=["blue","black","pink"]
 print(list1)
 print(len(list1))
 print(type(list1))
